@@ -1,0 +1,8 @@
+﻿http://www.360buy.com/special.aspx?id=5&page={1-20}
+http://www.360buy.com/special.aspx?id=3&page={1-5}
+http://www.360buy.com/special.aspx?id=4
+http://www.360buy.com/special.aspx?id=22,21,23,117
+http://www.360buy.com/products/670-671-672-0-0-0-0-0-0-0-1-5-{1-15}-1-33.html
+http://www.360buy.com/products/670-677-680-3382-0-0-10892-0-0-0-1-1-1.html
+http://www.360buy.com/products/652-828-1203-0-0-0-0-0-0-0-1-5-{1-2}-1-0.html
+http://www.360buy.com/products/670-677-683-0-0-0-0-0-0-0-1-5-{1-8}-1-0.html

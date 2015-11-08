@@ -1,0 +1,5 @@
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\bin\Release\DataAccessTools.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\bin\Release\DataAccessTools.pdb
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Release\ResolveAssemblyReference.cache
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Release\DataAccessTools.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Release\DataAccessTools.pdb

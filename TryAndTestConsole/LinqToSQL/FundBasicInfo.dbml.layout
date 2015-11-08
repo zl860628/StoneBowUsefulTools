@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="FundBasicInfo">
+  <DataContextMoniker Name="/FundBasicInfoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="33dc8ae5-abac-4ce2-8c9d-7124984e2e0b" absoluteBounds="0.5, 0.625, 2, 1.3525109863281251">
+      <DataClassMoniker Name="/FundBasicInfoDataContext/FundBasicInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3a60654a-9ff0-4f2f-9ded-7a39965432d8" absoluteBounds="0.51500000000000012, 1.085, 1.9700000000000002, 0.792510986328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="95a3eac3-c734-4628-9377-02ecf995bed2" absoluteBounds="2.625, 0.625, 2, 1.3525109863281251">
+      <DataClassMoniker Name="/FundBasicInfoDataContext/CurrencyFundDailyRevenue" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fab1b425-f880-439b-8910-a1bc650c3b6d" absoluteBounds="2.6400000000000006, 1.085, 1.9700000000000002, 0.792510986328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{0C7B549C-A644-4964-B530-EE746C21E7F2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MyUsefulTools</RootNamespace>
+    <AssemblyName>MyUsefulTools</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib, Version=0.85.5.452, Culture=neutral, PublicKeyToken=1b03e6acf1164f73, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Common">
+      <HintPath>..\packages\ServiceStack.Common.3.9.38\lib\net35\ServiceStack.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Interfaces, Version=3.9.38.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\ServiceStack.Common.3.9.38\lib\net35\ServiceStack.Interfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.OrmLite">
+      <HintPath>..\packages\ServiceStack.OrmLite.Sqlite32.3.9.39\lib\net40\ServiceStack.OrmLite.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.OrmLite.SqliteNET">
+      <HintPath>..\packages\ServiceStack.OrmLite.Sqlite32.3.9.39\lib\net40\ServiceStack.OrmLite.SqliteNET.dll</HintPath>
+    </Reference>
+    <Reference Include="ServiceStack.Text">
+      <HintPath>..\packages\ServiceStack.Text.3.9.38\lib\net35\ServiceStack.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="SevenZipSharp, Version=0.64.3890.29348, Culture=neutral, PublicKeyToken=20de82c62b055c88, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\SevenZipSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\packages\System.Data.SQLite.1.0.84.0\lib\net45\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq">
+      <HintPath>..\packages\System.Data.SQLite.1.0.84.0\lib\net45\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Winista.HtmlParser, Version=1.8.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\Winista.HtmlParser.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BLL\Config\ConfigEntity.cs" />
+    <Compile Include="BLL\Config\ConfigInit.cs" />
+    <Compile Include="BLL\TransportFluxRecordBLL.cs" />
+    <Compile Include="BLL\WeatherRecordBLL.cs" />
+    <Compile Include="DAO\BOINCCredit.cs" />
+    <Compile Include="DAO\BOINCTaskRecord.cs" />
+    <Compile Include="DAO\FishAmphimixis.cs" />
+    <Compile Include="DAO\FunctionStatistic.cs" />
+    <Compile Include="DAO\JingDongGoodsKind.cs" />
+    <Compile Include="DAO\JingDongNewGoodsDAO.cs" />
+    <Compile Include="DAO\LiuWeiSpaceItem.cs" />
+    <Compile Include="DAO\TempDAO.cs" />
+    <Compile Include="DAO\TransportFlux.cs" />
+    <Compile Include="DAO\UnderWaterFishInfo.cs" />
+    <Compile Include="DAO\WeatherRecord.cs" />
+    <Compile Include="Forms\Android\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Android\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Android\ViewApkInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Android\ViewApkInfo.Designer.cs">
+      <DependentUpon>ViewApkInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BOINC\CreditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BOINC\CreditForm.Designer.cs">
+      <DependentUpon>CreditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BOINC\InsertWCGItemForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BOINC\InsertWCGItemForm.Designer.cs">
+      <DependentUpon>InsertWCGItemForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\BOINC\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BOINC\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DaoGenerateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DaoGenerateForm.Designer.cs">
+      <DependentUpon>DaoGenerateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\JingDong\ActivityForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\JingDong\ActivityForm.Designer.cs">
+      <DependentUpon>ActivityForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\JingDong\Dialog_GetNewData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\JingDong\Dialog_GetNewData.Designer.cs">
+      <DependentUpon>Dialog_GetNewData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\JingDong\GetGoodsOnsaleDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\JingDong\GetGoodsOnsaleDate.Designer.cs">
+      <DependentUpon>GetGoodsOnsaleDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\JingDong\GoodsQuery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\JingDong\GoodsQuery.Designer.cs">
+      <DependentUpon>GoodsQuery.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\JingDong\JingDongNewGoods.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\JingDong\JingDongNewGoods.Designer.cs">
+      <DependentUpon>JingDongNewGoods.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\JingDong\PriceRecognize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\JingDong\PriceRecognize.Designer.cs">
+      <DependentUpon>PriceRecognize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\LiuWei\DataCapture.cs" />
+    <Compile Include="Forms\LiuWei\LiuWeiMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\LiuWei\LiuWeiMainForm.Designer.cs">
+      <DependentUpon>LiuWeiMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Renrendai\Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Renrendai\Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StoneReader\ReaderInitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StoneReader\ReaderInitForm.Designer.cs">
+      <DependentUpon>ReaderInitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\StoneReader\ReaderMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\StoneReader\ReaderMain.Designer.cs">
+      <DependentUpon>ReaderMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SystemInitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SystemInitForm.Designer.cs">
+      <DependentUpon>SystemInitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UnderWater\FishKindManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UnderWater\FishKindManager.Designer.cs">
+      <DependentUpon>FishKindManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\UnderWater\UnderWaterMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UnderWater\UnderWaterMainForm.Designer.cs">
+      <DependentUpon>UnderWaterMainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Weather\GetWeatherXml.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Weather\GetWeatherXml.Designer.cs">
+      <DependentUpon>GetWeatherXml.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Weather\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Weather\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Weather\SaveRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Weather\SaveRecord.Designer.cs">
+      <DependentUpon>SaveRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface\ITransportFluxStore.cs" />
+    <Compile Include="MyControl\AppButton_LargeIcon.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyControl\AppButton_LargeIcon.Designer.cs">
+      <DependentUpon>AppButton_LargeIcon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyControl\PageSelectControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MyControl\PageSelectControl.Designer.cs">
+      <DependentUpon>PageSelectControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyControl\PinyinSearchComboBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Android\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Android\ViewApkInfo.resx">
+      <DependentUpon>ViewApkInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BOINC\CreditForm.resx">
+      <DependentUpon>CreditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BOINC\InsertWCGItemForm.resx">
+      <DependentUpon>InsertWCGItemForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BOINC\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DaoGenerateForm.resx">
+      <DependentUpon>DaoGenerateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\JingDong\ActivityForm.resx">
+      <DependentUpon>ActivityForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\JingDong\Dialog_GetNewData.resx">
+      <DependentUpon>Dialog_GetNewData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\JingDong\GetGoodsOnsaleDate.resx">
+      <DependentUpon>GetGoodsOnsaleDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\JingDong\GoodsQuery.resx">
+      <DependentUpon>GoodsQuery.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\JingDong\JingDongNewGoods.resx">
+      <DependentUpon>JingDongNewGoods.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\JingDong\PriceRecognize.resx">
+      <DependentUpon>PriceRecognize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\LiuWei\LiuWeiMainForm.resx">
+      <DependentUpon>LiuWeiMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Renrendai\Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StoneReader\ReaderInitForm.resx">
+      <DependentUpon>ReaderInitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\StoneReader\ReaderMain.resx">
+      <DependentUpon>ReaderMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SystemInitForm.resx">
+      <DependentUpon>SystemInitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UnderWater\FishKindManager.resx">
+      <DependentUpon>FishKindManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UnderWater\UnderWaterMainForm.resx">
+      <DependentUpon>UnderWaterMainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Weather\GetWeatherXml.resx">
+      <DependentUpon>GetWeatherXml.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Weather\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Weather\SaveRecord.resx">
+      <DependentUpon>SaveRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyControl\AppButton_LargeIcon.resx">
+      <DependentUpon>AppButton_LargeIcon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MyControl\PageSelectControl.resx">
+      <DependentUpon>PageSelectControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\TestForm.resx">
+      <DependentUpon>TestForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test\TestThreadForm.resx">
+      <DependentUpon>TestThreadForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Test\TestForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\TestForm.Designer.cs">
+      <DependentUpon>TestForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test\TestThreadForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test\TestThreadForm.Designer.cs">
+      <DependentUpon>TestThreadForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\Constant.cs" />
+    <Compile Include="Utility\CSharpUtility.cs" />
+    <Compile Include="Utility\FileOperator\PinyinDeal.cs" />
+    <Compile Include="Utility\GoogleReader\GoogleReader.cs" />
+    <Compile Include="Utility\GraphicRecognize.cs" />
+    <Compile Include="Utility\HtmlParse\BoincInfoParser.cs" />
+    <Compile Include="Utility\HtmlParse\HTMLCommonParser.cs" />
+    <Compile Include="Utility\HtmlParse\HttpHelper.cs" />
+    <Compile Include="Utility\HtmlParse\InternetTransport.cs" />
+    <Compile Include="Utility\HtmlParse\JingDongNewGoodsParser.cs" />
+    <Compile Include="Utility\HtmlParse\LiuWeiSpaceItemParser.cs" />
+    <Compile Include="Utility\MyAlgorithm.cs" />
+    <Compile Include="Utility\PinyinTools.cs" />
+    <Compile Include="Utility\PrimeNumber.cs" />
+    <Compile Include="Utility\UserActivityHook.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="files\BoincComputerMapping.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="files\JingDongNewGoodsUrls.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="files\WeatherConfig.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="files\ZiToPinyin.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\image\AppIcon\configuration 1.ico">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="res\image\AppIcon\JingDongIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SQLite.Interop.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessTools\DataAccessTools.csproj">
+      <Project>{A3DF7CAD-24A3-444C-A2D4-0C3EB869F048}</Project>
+      <Name>DataAccessTools</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Interface\Interface.csproj">
+      <Project>{072425af-e384-4f54-a50f-8f4064db5c32}</Project>
+      <Name>Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StoneUtils\StoneUtils.csproj">
+      <Project>{76252e30-5666-496a-b2f0-1f3535c2a058}</Project>
+      <Name>StoneUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="BLL\StoneReader\" />
+    <Folder Include="Forms\KeyCount\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

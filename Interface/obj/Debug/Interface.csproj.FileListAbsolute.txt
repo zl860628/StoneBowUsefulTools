@@ -1,0 +1,8 @@
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\Interface\bin\Debug\Interface.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\Interface\bin\Debug\Interface.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\Interface\obj\Debug\Interface.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\Interface\obj\Debug\Interface.pdb
+C:\lezhan\MyUsefulTools\Interface\bin\Debug\Interface.dll
+C:\lezhan\MyUsefulTools\Interface\bin\Debug\Interface.pdb
+C:\lezhan\MyUsefulTools\Interface\obj\Debug\Interface.dll
+C:\lezhan\MyUsefulTools\Interface\obj\Debug\Interface.pdb

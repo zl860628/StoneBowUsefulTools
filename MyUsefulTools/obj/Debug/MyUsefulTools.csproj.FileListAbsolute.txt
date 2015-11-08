@@ -1,0 +1,478 @@
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\ResolveAssemblyReference.cache
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\Interop.MODI.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\Interop.MODI.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.ResolveComReference.cache
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.ResolveComReference.cache
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csprojResolveAssemblyReference.cache
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe.config
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.dll
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.xml
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csprojResolveAssemblyReference.cache
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.ResolveComReference.cache
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe.config
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.dll
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+C:\leozhang\projects\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.xml
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe.config
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.dll
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.xml
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csprojResolveAssemblyReference.cache
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.ResolveComReference.cache
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+D:\documents\常用文档\金山快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe.config
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.dll
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.xml
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csprojResolveAssemblyReference.cache
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.ResolveComReference.cache
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+C:\快盘\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe.config
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csprojResolveAssemblyReference.cache
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Common.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Text.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Common.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Text.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.StoneReader.ReaderMain.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\SQLite.Interop.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.StoneReader.ReaderInitForm.resources
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.SystemInitForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\x64\SQLite.Interop.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\x86\SQLite.Interop.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\SQLite.Interop.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe.config
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Common.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Interfaces.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Text.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\System.Data.SQLite.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Common.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Interfaces.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Text.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csprojResolveAssemblyReference.cache
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.StoneReader.ReaderInitForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.StoneReader.ReaderMain.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.SystemInitForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csprojResolveAssemblyReference.cache
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.StoneReader.ReaderInitForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.StoneReader.ReaderMain.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.SystemInitForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\x64\SQLite.Interop.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\x86\SQLite.Interop.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\SQLite.Interop.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe.config
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Common.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Interfaces.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Text.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\System.Data.SQLite.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.xml
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Common.xml
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Interfaces.xml
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.pdb
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+D:\SkyDrive\my project\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Text.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Renrendai.Main.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csprojResolveAssemblyReference.cache
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.MainForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Android.ViewApkInfo.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.CreditForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.InsertWCGItemForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.BOINC.MainForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.DaoGenerateForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.ActivityForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.Dialog_GetNewData.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GetGoodsOnsaleDate.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.GoodsQuery.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.JingDongNewGoods.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.JingDong.PriceRecognize.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.LiuWei.LiuWeiMainForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.MainForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Renrendai.Main.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.StoneReader.ReaderInitForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.StoneReader.ReaderMain.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.SystemInitForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.FishKindManager.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.UnderWater.UnderWaterMainForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.GetWeatherXml.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.MainForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Forms.Weather.SaveRecord.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.AppButton_LargeIcon.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.MyControl.PageSelectControl.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Properties.Resources.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.Test.TestThreadForm.resources
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.csproj.GenerateResource.Cache
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.exe
+C:\lezhan\MyUsefulTools\MyUsefulTools\obj\Debug\MyUsefulTools.pdb
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\files\BoincComputerMapping.xml
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\files\JingDongNewGoodsUrls.txt
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\files\WeatherConfig.txt
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\files\ZiToPinyin.xml
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\configuration 1.ico
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\res\image\AppIcon\JingDongIcon.png
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\x64\SQLite.Interop.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\x86\SQLite.Interop.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\SQLite.Interop.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe.config
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.exe
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\MyUsefulTools.pdb
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\Interface.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Common.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Interfaces.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Text.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\SevenZipSharp.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\StoneUtils.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\System.Data.SQLite.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\Winista.HtmlParser.dll
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\DataAccessTools.pdb
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\Interface.pdb
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\StoneUtils.pdb
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\EntityFramework.xml
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Common.xml
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Interfaces.xml
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.pdb
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+C:\lezhan\MyUsefulTools\MyUsefulTools\bin\Debug\ServiceStack.Text.xml

@@ -1,0 +1,48 @@
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\StoneUtils\bin\Debug\StoneUtils.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\StoneUtils\bin\Debug\StoneUtils.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.csprojResolveAssemblyReference.cache
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.csprojResolveAssemblyReference.cache
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.csprojResolveAssemblyReference.cache
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\x64\SQLite.Interop.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\x86\SQLite.Interop.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\StoneUtils.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\StoneUtils.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\DataAccessTools.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\Interface.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.OrmLite.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Interfaces.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Text.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Common.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\DataAccessTools.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\Interface.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.OrmLite.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Interfaces.xml
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Text.xml
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Common.xml
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\x64\SQLite.Interop.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\x86\SQLite.Interop.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\StoneUtils.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\StoneUtils.pdb
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\DataAccessTools.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\Interface.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.OrmLite.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Interfaces.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Text.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Common.dll
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\DataAccessTools.pdb
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\Interface.pdb
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.OrmLite.pdb
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Interfaces.xml
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Text.xml
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\ServiceStack.Common.xml
+C:\lezhan\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.csprojResolveAssemblyReference.cache
+C:\lezhan\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.dll
+C:\lezhan\MyUsefulTools\StoneUtils\obj\Debug\StoneUtils.pdb
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\StoneUtils.dll.config
+C:\lezhan\MyUsefulTools\StoneUtils\bin\Debug\Winista.HtmlParser.dll

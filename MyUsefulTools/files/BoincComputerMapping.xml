@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <computers max="15">
+    <computer id="1" name="华硕N80Vn(P8400 Win7x86)"></computer>
+    <computer id="6" name="华硕N80Vn(P8400 Win7x64)"></computer>
+	<computer id="9" name="华硕N80Vn(P8400 DeepinLinux11.12-1x64)"></computer>
+	<computer id="13" name="华硕N80Vn(P8400 Win8Pro x64)"></computer>
+    <computer id="2" name="戴尔Optiplex330(E4600 XPx86)"></computer>
+    <computer id="4" name="戴尔Optiplex330(E4600 Ubuntu10.10x86)"></computer>
+    <computer id="3" name="戴尔(P4 2.4G Win2003x86)"></computer>
+    <computer id="5" name="戴尔(P4 2.4G WinXPx86)"></computer>
+    <computer id="7" name="华硕N55SF(i7-2670 Win7x64)"></computer>
+    <computer id="8"  name="魅族M9(Android2.3.5)"></computer>
+	<computer id="10" name="魅族M9(FlymeOS1.0.1-Android4.0.3)"></computer>
+	<computer id="11" name="惠普Z600(XeonE5620 WinServer2008R2x64)"></computer>
+	<computer id="12" name="神舟W750T(Intel Pentium M750 WinXPx86)"></computer>
+	<computer id="14" name="小米MI1S(Android4.0.4)"></computer>
+	<computer id="15" name="华硕N55SF(i7-2670 Win8x64)"></computer>
+	<computer id="16" name="ThinkPad X1 Carbon Touch(i7-3667U Win8x64)"></computer>
+  </computers>
+  <projects>
+    <project name="CAS@home">
+      <!--表示将项目对应的ComputerID映射为computers标签中的computer的id属性-->
+      <computer id="1163" mappingto="1"/>
+      <computer id="3844" mappingto="2"/>
+      <computer id="7249" mappingto="3"/>
+      <computer id="9516" mappingto="4"/>
+      <computer id="12985" mappingto="4"/>
+      <computer id="11989" mappingto="6"/>
+    </project>
+    <project name="WUProp@Home">
+      <computer id="3949" mappingto="1"/>
+      <computer id="6360" mappingto="2"/>
+      <computer id="13880" mappingto="3"/>
+      <computer id="16632" mappingto="4"/>
+      <computer id="18472" mappingto="5"/>
+      <computer id="19559" mappingto="6"/>
+      <computer id="30734" mappingto="7"/>
+      <computer id="36160" mappingto="8">
+        <application name="Data collect version 3&lt;br&gt;Anonymous platform (CPU)" mappingto="Data collect version 3 3.34"/>
+      </computer>
+	  <computer id="36629" mappingto="9"/>
+	  <computer id="37575" mappingto="10">
+        <application name="Data collect version 3&lt;br&gt;Anonymous platform (CPU)" mappingto="Data collect version 3 3.34"/>
+      </computer>
+	  <computer id="38413" mappingto="12"/>
+	  <computer id="39617" mappingto="13"/>
+	  <computer id="40184" mappingto="14">
+        <application name="Data collect version 3&lt;br&gt;Anonymous platform (CPU)" mappingto="Data collect version 3 3.34"/>
+      </computer>
+    </project>
+    <project name="PrimeGrid">
+      <computer id="150573" mappingto="1"/>
+      <computer id="155840" mappingto="2"/>
+      <computer id="195633" mappingto="4"/>
+      <computer id="244127" mappingto="4"/>
+      <computer id="204818" mappingto="5"/>
+      <computer id="244111" mappingto="7"/>
+	  <computer id="268217" mappingto="9"/>
+	  <computer id="274678" mappingto="11"/>
+	  <computer id="281749" mappingto="13"/>
+	  <computer id="283756" mappingto="14"/>
+    </project>
+    <project name="Rosetta@home">
+      <computer id="1277533" mappingto="1"/>
+      <computer id="1389510" mappingto="2"/>
+      <computer id="1406519" mappingto="3"/>
+	  <computer id="1551381" mappingto="9"/>
+	  <computer id="1562239" mappingto="11"/>
+	  <computer id="1563049" mappingto="13"/>
+    </project>
+    <project name="MilkyWay@home">
+      <computer id="171964" mappingto="1"/>
+      <computer id="410567" mappingto="7"/>
+      <computer id="410565" mappingto="8">
+        <application name="MilkyWay@Home&lt;br&gt;Anonymous platform (CPU)" mappingto="MilkyWay@Home 1.0"/>
+      </computer>
+	  <computer id="444426" mappingto="8">
+        <application name="MilkyWay@Home&lt;br&gt;Anonymous platform (CPU)" mappingto="MilkyWay@Home 1.0"/>
+      </computer>
+      <computer id="410789" mappingto="4"/>
+	  <computer id="452919" mappingto="9"/>
+	  <computer id="457163" mappingto="10">
+        <application name="MilkyWay@Home&lt;br&gt;Anonymous platform (CPU)" mappingto="MilkyWay@Home 1.0"/>
+      </computer>
+	  <computer id="461308" mappingto="11"/>
+	  <computer id="460315" mappingto="12"/>
+	  <computer id="464420" mappingto="14">
+        <application name="MilkyWay@Home&lt;br&gt;Anonymous platform (CPU)" mappingto="MilkyWay@Home 1.0"/>
+      </computer>
+	  <computer id="497594" mappingto="14">
+        <application name="MilkyWay@Home&lt;br&gt;Anonymous platform (CPU)" mappingto="MilkyWay@Home 1.0"/>
+      </computer>
+	  <computer id="493109" mappingto="16"/>
+	</project>
+    <project name="SETI@home">
+      <computer id="5384032" mappingto="1"/>
+      <computer id="5463266" mappingto="2"/>
+      <computer id="5760745" mappingto="3"/>
+      <computer id="5884699" mappingto="4"/>
+      <computer id="6069145" mappingto="6"/>
+	  <computer id="6617602" mappingto="7">
+		<application name="SETI@home Enhanced&lt;br&gt;Anonymous platform (CPU)" mappingto="Seti@Home Enhanced 6.03(v8b2-SSE4.1 Win64 v5.13 Build 386)"/>
+		<application name="AstroPulse v6&lt;br&gt;Anonymous platform (CPU)" mappingto="AstroPulse v6.01(r557 SSE2 x86)"/>
+	  </computer>
+    </project>
+    <project name="World Community Grid">
+      <computer id="laptop(P8400 Win7x86)" mappingto="1"/>
+      <computer id="StoneBowOld-PC" mappingto="1"/>
+      <computer id="实验室(E4600 XPx86)" mappingto="2"/>
+      <computer id="lab-ubuntu10x86" mappingto="4"/>
+      <computer id="StoneBow-PC" mappingto="7"/>
+	  <computer id="Deepin11" mappingto="9"/>
+	  <computer id="CNG212W0Y2" mappingto="11"/>
+	  <computer id="StonebowN55win8" mappingto="15"/>
+	  <computer id="LEZHAN_X1" mappingto="16"/>
+    </project>
+    <project name="Einstein@Home">
+      <computer id="4115106" mappingto="4"/>
+	  <computer id="5491521" mappingto="7"/>
+	  <computer id="5491179" mappingto="9"/>
+    </project>
+  </projects>
+</root>

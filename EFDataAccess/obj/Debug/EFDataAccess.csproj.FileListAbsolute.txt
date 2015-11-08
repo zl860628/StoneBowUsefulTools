@@ -1,0 +1,5 @@
+C:\lezhan\MyUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.dll
+C:\lezhan\MyUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.pdb
+C:\lezhan\MyUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.csprojResolveAssemblyReference.cache
+C:\lezhan\MyUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.dll
+C:\lezhan\MyUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.pdb

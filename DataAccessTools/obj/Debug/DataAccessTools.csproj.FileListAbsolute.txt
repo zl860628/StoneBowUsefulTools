@@ -1,0 +1,122 @@
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.pdb
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Debug\ResolveAssemblyReference.cache
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.dll
+F:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.pdb
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.pdb
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.dll
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.pdb
+D:\My Applications\CSharp\myapp\MyPIM\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.csprojResolveAssemblyReference.cache
+C:\leozhang\projects\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll.config
+C:\leozhang\projects\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll
+C:\leozhang\projects\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.pdb
+C:\leozhang\projects\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.csprojResolveAssemblyReference.cache
+C:\leozhang\projects\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.dll
+C:\leozhang\projects\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll.config
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.xml
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.csprojResolveAssemblyReference.cache
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.dll
+C:\Users\zl860_000\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\x64\SQLite.Interop.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\x86\SQLite.Interop.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll.config
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.xml
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.csprojResolveAssemblyReference.cache
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.pdb
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\x64\SQLite.Interop.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\x86\SQLite.Interop.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll.config
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.pdb
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.xml
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.xml
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.pdb
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.xml
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.csprojResolveAssemblyReference.cache
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.dll
+D:\SkyDrive\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.pdb
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\Interface.dll
+D:\documents\常用文档\SkyDrive\my project\MyUsefulTools\DataAccessTools\bin\Debug\Interface.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\x64\SQLite.Interop.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\x86\SQLite.Interop.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll.config
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\Interface.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.Linq.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\Interface.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.xml
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.xml
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.xml
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.csprojResolveAssemblyReference.cache
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.dll
+D:\documents\win8documents\baidupan\my project\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.pdb
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\x64\SQLite.Interop.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\x86\SQLite.Interop.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll.config
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\DataAccessTools.pdb
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\Interface.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\System.Data.SQLite.Linq.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\Interface.pdb
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Common.xml
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Interfaces.xml
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.pdb
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.OrmLite.SqliteNET.pdb
+C:\lezhan\MyUsefulTools\DataAccessTools\bin\Debug\ServiceStack.Text.xml
+C:\lezhan\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.csprojResolveAssemblyReference.cache
+C:\lezhan\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.dll
+C:\lezhan\MyUsefulTools\DataAccessTools\obj\Debug\DataAccessTools.pdb

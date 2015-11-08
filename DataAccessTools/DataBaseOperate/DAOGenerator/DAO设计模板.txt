@@ -1,0 +1,234 @@
+﻿//此模板为自动DAO代码生成器的设计样品，也是参照规则，需要与生成代码完全一致
+
+//--------------------------------------------------------------------------------------------------------------
+//私有属性模块
+//每一条目分为修饰词（基本上为private）、属性类型、属性名、初始化值四部分组成
+//数据库表中的每个字段都将对应一个条目，其中定义如下：
+//属性类型为表字段类型映射到C#语言对应的类型（如果是值类型，使用Nullable类型），如例(1)；
+  当此字段含有强制逻辑属性时，需要增加一个条目，用来定义逻辑属性，此属性的属性类型为强制逻辑属性类型，
+  属性名为带有"log_"前缀的属性名，初始化值为强制逻辑属性初始化值，如例(2)；
+  当该字段是参照某表的外码时，将其设定为强制逻辑属性，需要增加一个条目，新增条目的属性类型为参照表的表名，初始化值为null，如例(2.2)
+//属性名为首字母小写的表字段名
+//初始化值默认由系统根据属性类型来决定，数据库字段如果为可空，初始化值为null
+
+//例(1)
+private string userName = "";
+private int? count = null;//count字段可空时
+private DateTime? startTime = null;
+
+//例(2)
+private string isEmailValid = "";
+private bool log_isEmailValid = false;
+
+//例(2.2)
+private int friendFishKind = -1;
+private FishKind log_friendFishKind = null;
+
+//例(2.3)
+private int? babyFishKind = null;
+private FishKind log_babyFishKind = null;
+
+
+//--------------------------------------------------------------------------------------------------------------
+//属性的Getter Setter方法模块
+//如果不含有强制逻辑属性，则可以直接生成此方法模块，如例(3)。注意此类属性名称需要首字母大写
+//如果含有强制逻辑属性，说明外界只能访问逻辑属性，不能访问数据库字段属性。
+  此时对每个逻辑属性提供标准的Getter方法，并且提供字段属性到逻辑属性的Trans方法和为逻辑属性及字段属性赋值的Set方法，如例(4)
+  Set方法可以由外部程序调用，故为public修饰，Trans只能为内部调用，故为private修饰。
+//如果字段有外码约束，设定为具有强制逻辑属性，并且可以根据参照表和字段的名称自动生成Set和Trans方法内容，如例(4.1)
+  如果外码字段可空时，需要加入判空语句，如例(4.2)
+
+//例(3)
+public String UserName
+{
+	get { return userName; }
+	set { userName = value; }
+}
+
+//例(4)
+public bool IsEmailValid
+{
+	get { return log_isEmailValid; }
+}
+public void SetIsEmailValid(bool _value)
+{
+	//首先给逻辑属性赋值
+	log_isEmailValid = _value;
+	//其次进行转换
+	isEmailValid = _value?"是":"否";
+}
+private void TransIsEmailValid()
+{
+	//执行转换
+	log_isEmailValid = isEmailValid.Equals("是")?true:false;
+}
+//例(4.1)，字段不能为空时
+public FishKind FriendFishKind
+{
+	get { return log_friendFishKind; }
+}
+public void SetFriendFishKind(FishKind _value)
+{
+	if(_value == null) return;
+	
+	log_friendFishKind = _value;
+	friendFishKind = _value.ID;
+}
+private void TransFriendFishKind()
+{
+	log_friendFishKind = new FishKind(friendFishKind);
+}
+
+//例(4.2)，字段可空时
+public FishKind BabyFishKind
+{
+	get { return log_babyFishKind; }
+}
+public void SetBabyFishKind(FishKind _value)
+{
+	//首先给逻辑属性赋值
+	log_friendFishKind = _value;
+	//其次进行转换
+	if(_value == null)
+	{
+		friendFishKind = null;
+	}
+	else
+	{
+		friendFishKind = _value.ID;
+	}
+}
+private void TransFriendFishKind()
+{
+	//执行转换
+	if(friendFishKind == null) log_friendFishKind = null;
+	else log_friendFishKind = new FishKind(friendFishKind);
+}
+
+//--------------------------------------------------------------------------------------------------------------
+//数据库操作——插入操作InsertNewRecord
+//1. 首先判断此记录是否已在数据库表中
+//2. 生成SQL插入语句，注意此句中对于起标识作用的ID字段的处理，ID字段不出现在插入语句中
+//3. 生成字段对应的参数语句，对于包含强制逻辑属性的字段，由于使用Set方法设置逻辑属性的同时设置了字段属性，因此不需要额外处理。
+//4. 对于包含标识ID字段的表，需要根据插入数据库的属性值，返回对应记录的ID
+//5. 对于字段为外码时，由于外码定义为强制逻辑属性，给SqlParameter赋值时可以使用类属性进行，如例(5.1)
+
+//例(5)
+public void InsertNewUser()
+{
+    if (isRecord) throw new Exception("记录重复");
+
+    string sqlstr = "insert into [User] values(@userid,@email,@emailvalid);";
+    SqlParameter[] paras = new SqlParameter[4];
+    paras[0] = new SqlParameter("@userid", SqlDbType.VarChar, 20);
+    paras[0].Value = userID;
+    paras[1] = new SqlParameter("@email", SqlDbType.VarChar, 100);
+    paras[1].Value = email;
+    paras[2] = new SqlParameter("@emailvalid", SqlDbType.NChar, 1);
+    paras[2].Value = isEmailValid;
+    //例(5.1)，这是一个外码字段，对应一个逻辑属性，但是统一起见需要使用类属性而不是逻辑属性
+    paras[3] = new SqlParameter("@selffishkind", SqlDbType.Int, 4);
+    paras[3].Value = selfFishKind;
+
+    DBManager.InsertRecord(sqlstr, paras);
+    
+    sqlstr = "select ID from [User] where UserID=@userid and Email=@email and EmailValid=@emailvalid;";
+    DataTable dt = DBManager.SelectRecord(sqlstr, paras);
+    this.ID = (int)dt.Rows[0][0];
+    
+    this.isRecord = true;
+}
+
+//--------------------------------------------------------------------------------------------------------------
+//getPropertiesByID方法
+//当表含有ID标识字段时，需要此方法根据ID值获得对象
+//1.写SQL语句，将ID作为参数查指定的记录
+//2.判断结果集是否有记录，如果没有，直接返回
+//3.如果有记录，取记录的各个字段值，赋给对象对应属性值（要注意属性类型）：
+//3.1 当字段包含强制逻辑属性时，需要执行Trans方法
+//3.2 当字段为外码时，暂时酌情处理
+//3.3 当字段可空时，需要对从数据库中取出的数据判空
+
+//例(6)
+/// <summary>
+/// 根据ID获取对象属性
+/// </summary>
+private void GetPropertiesByID(int _id)
+{
+    string sqlstr = "select * from [Restaurant] where ID=@id;";
+    SqlParameter[] paras = new SqlParameter[1];
+    paras[0] = new SqlParameter("@id", SqlDbType.Int);
+    paras[0].Value = _id;
+    DataTable dt = DBManager.SelectRecords(sqlstr, paras);
+    if (dt.Rows.Count == 0)
+    {
+        this.isRecord = false;
+        return;
+    }
+    else
+    {//给各个属性赋值
+		DataRow dr = dt.Rows[0];
+    
+        this.iD = _id;
+
+        this.name = dr["Name"].ToString().Trim();
+
+        this.coordinate = dr["Coordinate"].ToString().Trim();
+        TransCoordinate();
+
+        this.capability = (int)dr["Capability"];
+        
+        object obj_buyNeedLevel = dr["BuyNeedLevel"];
+        if (obj_buyNeedLevel == DBNull.Value) buyNeedLevel = null;
+        else buyNeedLevel = (int)obj_buyNeedLevel;
+
+        this.isRecord = true;
+    }
+}
+
+//--------------------------------------------------------------------------------------------------------------
+//getPropertiesByUnique方法
+//当表含有ID标识字段时，需要此方法根据ID值获得对象
+//1.写SQL语句，将ID作为参数查指定的记录
+//2.判断结果集是否有记录，如果没有，直接返回
+//3.如果有记录，取记录的各个字段值，赋给对象对应属性值（要注意属性类型）：
+//3.1 当字段包含强制逻辑属性时，需要执行Trans方法
+//3.2 当字段为外码时，暂时酌情处理
+//3.3 当字段可空时，需要对从数据库中取出的数据判空
+
+//例(6)
+/// <summary>
+/// 根据ID获取对象属性
+/// </summary>
+private void GetPropertiesByID(int _id)
+{
+    string sqlstr = "select * from [Restaurant] where ID=@id;";
+    SqlParameter[] paras = new SqlParameter[1];
+    paras[0] = new SqlParameter("@id", SqlDbType.Int);
+    paras[0].Value = _id;
+    DataTable dt = DBManager.SelectRecords(sqlstr, paras);
+    if (dt.Rows.Count == 0)
+    {
+        this.isRecord = false;
+        return;
+    }
+    else
+    {//给各个属性赋值
+		DataRow dr = dt.Rows[0];
+    
+        this.iD = _id;
+
+        this.name = dr["Name"].ToString().Trim();
+
+        this.coordinate = dr["Coordinate"].ToString().Trim();
+        TransCoordinate();
+
+        this.capability = (int)dr["Capability"];
+        
+        object obj_buyNeedLevel = dr["BuyNeedLevel"];
+        if (obj_buyNeedLevel == DBNull.Value) buyNeedLevel = null;
+        else buyNeedLevel = (int)obj_buyNeedLevel;
+
+        this.isRecord = true;
+    }
+}
