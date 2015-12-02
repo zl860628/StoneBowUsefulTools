@@ -6,3 +6,8 @@ C:\lezhan\MyUsefulTools\Interface\bin\Debug\Interface.dll
 C:\lezhan\MyUsefulTools\Interface\bin\Debug\Interface.pdb
 C:\lezhan\MyUsefulTools\Interface\obj\Debug\Interface.dll
 C:\lezhan\MyUsefulTools\Interface\obj\Debug\Interface.pdb
+C:\lezhan\code\StoneBowUsefulTools\Interface\bin\Debug\Interface.dll
+C:\lezhan\code\StoneBowUsefulTools\Interface\bin\Debug\Interface.pdb
+C:\lezhan\code\StoneBowUsefulTools\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\lezhan\code\StoneBowUsefulTools\Interface\obj\Debug\Interface.dll
+C:\lezhan\code\StoneBowUsefulTools\Interface\obj\Debug\Interface.pdb

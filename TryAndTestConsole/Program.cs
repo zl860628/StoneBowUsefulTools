@@ -12,6 +12,8 @@ using StoneUtils.Internet;
 using Winista.Text.HtmlParser;
 using Winista.Text.HtmlParser.Lex;
 using Winista.Text.HtmlParser.Filters;
+using StoneBowReader.InfoParser;
+using EFDataAccess.Entities;
 
 [assembly: log4net.Config.XmlConfigurator(Watch = true)]
 namespace TryAndTestConsole
@@ -103,6 +105,16 @@ namespace TryAndTestConsole
             sw.Close();
         }
 
+        public static void test007()
+        {
+            CnBetaNewsParser parser = new CnBetaNewsParser();
+            using (CnBetaInfoContext context = new CnBetaInfoContext())
+            {
+                context.CnBetaInfos.Add(parser.ParseCnBetaInfo("http://www.cnbeta.com/articles/436765.htm"));
+                context.SaveChanges();
+            }
+        }
+
         static void Main(string[] args)
         {
             //test001_FundInfoInitTest();
@@ -110,7 +122,7 @@ namespace TryAndTestConsole
             //test003_GoogleReaderAPI();
             //test004();
             //test005_GetHostName();
-            test006();
+            test007();
             Console.Write("finished...");
             Console.Read();
         }

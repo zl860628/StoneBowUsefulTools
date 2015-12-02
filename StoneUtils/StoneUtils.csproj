@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>StoneUtils</RootNamespace>
     <AssemblyName>StoneUtils</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -50,6 +51,7 @@
     <Compile Include="DataStructure\Tree\TreeHandler.cs" />
     <Compile Include="DataStructure\Tree\TreeNode.cs" />
     <Compile Include="Internet\HttpHelper.cs" />
+    <Compile Include="Internet\InfoParser\CnBetaNewsParser.cs" />
     <Compile Include="Internet\InternetTransport.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -57,6 +59,10 @@
     <ProjectReference Include="..\DataAccessTools\DataAccessTools.csproj">
       <Project>{a3df7cad-24a3-444c-a2d4-0c3eb869f048}</Project>
       <Name>DataAccessTools</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EFDataAccess\EFDataAccess.csproj">
+      <Project>{834a9726-ad26-42fd-acd2-e69bb15699e1}</Project>
+      <Name>EFDataAccess</Name>
     </ProjectReference>
     <ProjectReference Include="..\Interface\Interface.csproj">
       <Project>{072425af-e384-4f54-a50f-8f4064db5c32}</Project>

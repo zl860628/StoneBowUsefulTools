@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyUsefulTools", "MyUsefulTools\MyUsefulTools.csproj", "{0C7B549C-A644-4964-B530-EE746C21E7F2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{834A9726-AD26-42FD-ACD2-E69BB15699E1} = {834A9726-AD26-42FD-ACD2-E69BB15699E1}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessTools", "DataAccessTools\DataAccessTools.csproj", "{A3DF7CAD-24A3-444C-A2D4-0C3EB869F048}"
 EndProject
@@ -13,6 +16,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryAndTestConsole", "TryAnd
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoneUtils", "StoneUtils\StoneUtils.csproj", "{76252E30-5666-496A-B2F0-1F3535C2A058}"
+	ProjectSection(ProjectDependencies) = postProject
+		{834A9726-AD26-42FD-ACD2-E69BB15699E1} = {834A9726-AD26-42FD-ACD2-E69BB15699E1}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{072425AF-E384-4F54-A50F-8F4064DB5C32}"
 EndProject

@@ -3,3 +3,13 @@ C:\lezhan\MyUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.pdb
 C:\lezhan\MyUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.csprojResolveAssemblyReference.cache
 C:\lezhan\MyUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.dll
 C:\lezhan\MyUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.pdb
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.dll.config
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.dll
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.pdb
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.dll
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.xml
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.csprojResolveAssemblyReference.cache
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.dll
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.pdb
