@@ -16,7 +16,8 @@ namespace StoneBowReader.InfoParser
         public CnBetaInfo ParseCnBetaInfo(string url)
         {
             CnBetaInfo cnBetaInfo = new CnBetaInfo();
-            cnBetaInfo.URL = url;
+
+            cnBetaInfo.Id = cnBetaInfo.URL = url;
 
             HttpHelper httpHelper = new HttpHelper();
             HttpItem httpItem = new HttpItem()

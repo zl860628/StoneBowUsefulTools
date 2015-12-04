@@ -18,7 +18,13 @@ namespace EFDataAccess.Entities
     }
 
     public class CnBetaInfoContext : DbContext
-    {
+    {      
         public DbSet<CnBetaInfo> CnBetaInfos { get; set; }
+
+        public CnBetaInfoContext() : base("TryAndTestConsole.Properties.Settings.CnBetaNewsConnectionString")
+        {
+
+        }
+
     }
 }
