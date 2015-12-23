@@ -5,9 +5,30 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StoneBowReader"
         mc:Ignorable="d"
-        Title="MainWindow" Height="768" Width="1024">
+        Title="MainWindow" Height="900" Width="1598">
     <Grid>
-        <WebBrowser x:Name="wb_content" HorizontalAlignment="Left" Margin="285,10,0,10" Width="721"/>
-
+        <Menu x:Name="menu_main" Height="25" VerticalAlignment="Top" >
+            <MenuItem x:Name="menu_main_data" Header="数据" VerticalAlignment="Center" Height="25">
+                <MenuItem x:Name="menu_main_data_update" Header="更新数据..." Click="menu_main_data_update_Click"/>
+            </MenuItem>
+            <MenuItem x:Name="menu_main_help" Header="帮助" VerticalAlignment="Center" Height="25">
+                <MenuItem Header="数据"></MenuItem>
+            </MenuItem>
+        </Menu>
+        <WebBrowser x:Name="wb_content" HorizontalAlignment="Left" Margin="615,50,0,10" Width="965" GotMouseCapture="wb_content_GotMouseCapture"/>
+        <ListBox x:Name="listbox_summary" HorizontalAlignment="Left" Height="829" Margin="10,30,0,0" VerticalAlignment="Top" Width="600" SelectionChanged="listbox_summary_SelectionChanged">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Height="80" Orientation="Horizontal">
+                        <Image Width="80" Height="80"></Image>
+                        <StackPanel Width="500">
+                            <Label Content="{Binding Title}" FontWeight="{Binding Path=TitleFontWeight,UpdateSourceTrigger=PropertyChanged,Mode=TwoWay}" Margin="0,0,30,0"></Label>
+                            <TextBlock TextWrapping="Wrap" Height="46" Text="{Binding Introduce}" Margin="0,0,30,15"></TextBlock>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+            <!--<ListItem></ListItem>-->
+        </ListBox>
     </Grid>
 </Window>

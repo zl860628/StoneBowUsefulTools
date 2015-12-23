@@ -75,7 +75,7 @@ namespace TryAndTestConsole
             Winista.Text.HtmlParser.Util.NodeList nl_all = parser.Parse(null);
 
             Winista.Text.HtmlParser.Util.NodeList nl_title = nl_all.ExtractAllNodesThatMatch(new HasAttributeFilter("id", "news_title"), true);
-            if(nl_title.Count == 0)
+            if (nl_title.Count == 0)
             {
                 sw.Close();
                 return;
@@ -108,10 +108,35 @@ namespace TryAndTestConsole
         public static void test007()
         {
             CnBetaNewsParser parser = new CnBetaNewsParser();
-            using (CnBetaInfoContext context = new CnBetaInfoContext())
+
+            int id = 456555;
+            int errorCount = 0;
+            while (errorCount < 20)
             {
-                context.CnBetaInfos.Add(parser.ParseCnBetaInfo("http://www.cnbeta.com/articles/436765.htm"));
-                context.SaveChanges();
+                string url = "http://www.cnbeta.com/articles/" + id.ToString() + ".htm";
+                CnBetaInfo cnBetaInfo = parser.ParseCnBetaInfo(url);
+                if (cnBetaInfo != null)
+                {
+                    using (ReaderInfoContext context = new ReaderInfoContext())
+                    {
+                        try
+                        {
+                            context.CnBetaInfos.Add(cnBetaInfo);
+                            context.SaveChanges();
+                            Console.WriteLine("Record successfully for : " + url);
+                        }
+                        catch (Exception ex)
+                        {
+                            Console.WriteLine("Record error for : " + url);
+                        }
+                    }
+                    errorCount = 0;
+                }
+                else
+                {
+                    errorCount++;
+                }
+                id += 2;
             }
         }
 

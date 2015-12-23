@@ -13,3 +13,5 @@ C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.SqlSer
 C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.csprojResolveAssemblyReference.cache
 C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.dll
 C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.pdb
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.Migrations.AddViewInfoTable.resources
+C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.csproj.GenerateResource.Cache

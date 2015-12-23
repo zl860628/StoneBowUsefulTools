@@ -8,6 +8,7 @@ using Winista.Text.HtmlParser;
 using Winista.Text.HtmlParser.Lex;
 using Winista.Text.HtmlParser.Filters;
 using EFDataAccess.Entities;
+using StoneUtils;
 
 namespace StoneBowReader.InfoParser
 {
@@ -15,9 +16,11 @@ namespace StoneBowReader.InfoParser
     {
         public CnBetaInfo ParseCnBetaInfo(string url)
         {
+            //http://www.cnbeta.com/articles/436765.htm
             CnBetaInfo cnBetaInfo = new CnBetaInfo();
 
-            cnBetaInfo.Id = cnBetaInfo.URL = url;
+            cnBetaInfo.Id = "CnBeta" + CSharpUtility.GetContent(url, "articles/", ".htm", 1);
+            cnBetaInfo.URL = url;
 
             HttpHelper httpHelper = new HttpHelper();
             HttpItem httpItem = new HttpItem()
@@ -41,13 +44,13 @@ namespace StoneBowReader.InfoParser
             cnBetaInfo.PubTime = DateTime.Parse(nl_date[0].ToPlainTextString());
 
             Winista.Text.HtmlParser.Util.NodeList nl_source = nl_all.ExtractAllNodesThatMatch(new HasAttributeFilter("class", "where"), true);
-            cnBetaInfo.Source = nl_source[0].ToPlainTextString();
+            cnBetaInfo.Source = nl_source[0].ToPlainTextString().Replace("稿源：", "");
 
             Winista.Text.HtmlParser.Util.NodeList nl_introduction = nl_all.ExtractAllNodesThatMatch(new HasAttributeFilter("class", "introduction"), true)
                                                                           .ExtractAllNodesThatMatch(new NodeClassFilter(typeof(Winista.Text.HtmlParser.Tags.ParagraphTag)), true);
             for (int i = 0; i < nl_introduction.Count; i++)
             {
-                cnBetaInfo.Content += nl_introduction[i].ToPlainTextString().Trim().Replace("\r\n", "");
+                cnBetaInfo.Introduction += nl_introduction[i].ToPlainTextString().Trim().Replace("\r\n", "");
             }
 
             Winista.Text.HtmlParser.Util.NodeList nl_content = nl_all.ExtractAllNodesThatMatch(new HasAttributeFilter("class", "content"), true)[0].Children;

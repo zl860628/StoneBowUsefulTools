@@ -1,0 +1,14 @@
+﻿<Window x:Class="StoneBowReader.UpdateData"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StoneBowReader"
+        mc:Ignorable="d"
+        Title="UpdateData" Height="527" Width="814">
+    <Grid>
+        <Button x:Name="btn_update_CnBeta" Content="更新CnBeta" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="90" Click="btn_update_CnBeta_Click"/>
+        <TextBox x:Name="tb_message" HorizontalAlignment="Left" Height="436" Margin="10,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="786" VerticalScrollBarVisibility="Auto"/>
+
+    </Grid>
+</Window>
