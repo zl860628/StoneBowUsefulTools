@@ -15,7 +15,6 @@
                 <MenuItem Header="数据"></MenuItem>
             </MenuItem>
         </Menu>
-        <WebBrowser x:Name="wb_content" HorizontalAlignment="Left" Margin="615,50,0,10" Width="965" GotMouseCapture="wb_content_GotMouseCapture"/>
         <ListBox x:Name="listbox_summary" HorizontalAlignment="Left" Height="829" Margin="10,30,0,0" VerticalAlignment="Top" Width="600" SelectionChanged="listbox_summary_SelectionChanged">
             <ListBox.ItemTemplate>
                 <DataTemplate>
@@ -30,5 +29,7 @@
             </ListBox.ItemTemplate>
             <!--<ListItem></ListItem>-->
         </ListBox>
+        <Frame x:Name="frame_webContent" Content="" HorizontalAlignment="Left" Height="809" Margin="1350,50,-585,0" VerticalAlignment="Top" Width="825" MouseEnter="frame_webContent_MouseEnter"/>
+        <WebBrowser x:Name="wb_content" HorizontalAlignment="Left" Height="809" Margin="615,50,0,0" VerticalAlignment="Top" Width="735" LoadCompleted="wb_content_LoadCompleted"/>
     </Grid>
 </Window>

@@ -96,11 +96,13 @@ namespace StoneBowReader
         private String GenerateBrowseContent(CnBetaInfo cnBetaInfo)
         {
             StringBuilder sbdContent = new StringBuilder();
+            sbdContent.AppendLine("<html>");
             sbdContent.AppendLine("<meta charset=\"utf-8\">");
             sbdContent.AppendLine("<style>body{font-family: 微软雅黑,宋体}</style>");
             sbdContent.AppendFormat("<h2 align=\"center\" font-size=\"18px\" font-weight=\"bold\">{0}</h2>\n", cnBetaInfo.Title);
             sbdContent.AppendFormat("<p align=\"center\">{0} | From : {1}</p>\n", cnBetaInfo.PubTime, cnBetaInfo.Source);
             sbdContent.AppendFormat("<p>{0}</p>\n", cnBetaInfo.Introduction);
+            sbdContent.AppendLine("</html>");
             sbdContent.AppendLine(cnBetaInfo.Content);
 
             return sbdContent.ToString();
@@ -118,6 +120,16 @@ namespace StoneBowReader
             NewsSummaryItem item = (NewsSummaryItem)(listbox.SelectedItem);
             CnBetaInfo cnBetaInfo = item.NewsInfo;
             wb_content.NavigateToString(GenerateBrowseContent(cnBetaInfo));
+            mshtml.HTMLDocument htmlDoc_content = wb_content.Document as mshtml.HTMLDocument;
+            htmlDoc_content.focus();
+            htmlDoc_content.parentWindow.execScript("document.onmousedown=function(e) { alert('a'); }", "javascript");
+
+            WebBrowser browser_content = new WebBrowser();
+            browser_content.NavigateToString(GenerateBrowseContent(cnBetaInfo));
+            mshtml.HTMLDocument htmlDoc = browser_content.Document as mshtml.HTMLDocument;
+            htmlDoc.parentWindow.execScript("document.onmousedown=function(e) { alert('a'); }", "javascript");
+
+            frame_webContent.Content = browser_content;
 
             //using (ReaderInfoContext context = new ReaderInfoContext())
             //{
@@ -149,9 +161,25 @@ namespace StoneBowReader
             }
         }
 
-        private void wb_content_GotMouseCapture(object sender, MouseEventArgs e)
+        private void frame_webContent_MouseEnter(object sender, MouseEventArgs e)
         {
-            MessageBox.Show("Got mouse capture!");
+            if (frame_webContent.Content is WebBrowser)
+            {
+                WebBrowser browser_content = frame_webContent.Content as WebBrowser;
+                mshtml.HTMLDocument htmlDoc = browser_content.Document as mshtml.HTMLDocument;
+                //htmlDoc.parentWindow.execScript("alert('a')", "javascript");
+                htmlDoc.focus();
+            }
+            else
+            {
+                Console.WriteLine("Mouse enter when frame's content is not WebBrowser");
+            }
+        }
+
+        private void wb_content_LoadCompleted(object sender, NavigationEventArgs e)
+        {
+            mshtml.HTMLDocument htmlDoc_content = wb_content.Document as mshtml.HTMLDocument;
+            htmlDoc_content.focus();
         }
     }
 }
