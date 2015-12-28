@@ -119,41 +119,32 @@ namespace StoneBowReader
             ListBox listbox = (ListBox)sender;
             NewsSummaryItem item = (NewsSummaryItem)(listbox.SelectedItem);
             CnBetaInfo cnBetaInfo = item.NewsInfo;
+
             wb_content.NavigateToString(GenerateBrowseContent(cnBetaInfo));
-            mshtml.HTMLDocument htmlDoc_content = wb_content.Document as mshtml.HTMLDocument;
-            htmlDoc_content.focus();
-            htmlDoc_content.parentWindow.execScript("document.onmousedown=function(e) { alert('a'); }", "javascript");
 
-            WebBrowser browser_content = new WebBrowser();
-            browser_content.NavigateToString(GenerateBrowseContent(cnBetaInfo));
-            mshtml.HTMLDocument htmlDoc = browser_content.Document as mshtml.HTMLDocument;
-            htmlDoc.parentWindow.execScript("document.onmousedown=function(e) { alert('a'); }", "javascript");
-
-            frame_webContent.Content = browser_content;
-
-            //using (ReaderInfoContext context = new ReaderInfoContext())
-            //{
-            //    ViewInfo viewInfo = null;
-            //    try
-            //    {
-            //        viewInfo = context.ViewInfoes.Find(cnBetaInfo.Id);
-            //    }
-            //    catch (Exception ex)
-            //    {
-            //    }
-            //    if (viewInfo == null)
-            //    {
-            //        viewInfo = new ViewInfo()
-            //        {
-            //            ViewId = cnBetaInfo.Id,
-            //            FirstViewTime = DateTime.Now,
-            //            FinishViewTime = DateTime.Now,
-            //            IsViewed = true
-            //        };
-            //        context.ViewInfoes.Add(viewInfo);
-            //        context.SaveChanges();
-            //    }
-            //}
+            using (ReaderInfoContext context = new ReaderInfoContext())
+            {
+                ViewInfo viewInfo = null;
+                try
+                {
+                    viewInfo = context.ViewInfoes.Find(cnBetaInfo.Id);
+                }
+                catch (Exception ex)
+                {
+                }
+                if (viewInfo == null)
+                {
+                    viewInfo = new ViewInfo()
+                    {
+                        ViewId = cnBetaInfo.Id,
+                        FirstViewTime = DateTime.Now,
+                        FinishViewTime = DateTime.Now,
+                        IsViewed = true
+                    };
+                    context.ViewInfoes.Add(viewInfo);
+                    context.SaveChanges();
+                }
+            }
 
             if (!item.IsViewed)
             {
@@ -161,24 +152,11 @@ namespace StoneBowReader
             }
         }
 
-        private void frame_webContent_MouseEnter(object sender, MouseEventArgs e)
-        {
-            if (frame_webContent.Content is WebBrowser)
-            {
-                WebBrowser browser_content = frame_webContent.Content as WebBrowser;
-                mshtml.HTMLDocument htmlDoc = browser_content.Document as mshtml.HTMLDocument;
-                //htmlDoc.parentWindow.execScript("alert('a')", "javascript");
-                htmlDoc.focus();
-            }
-            else
-            {
-                Console.WriteLine("Mouse enter when frame's content is not WebBrowser");
-            }
-        }
-
         private void wb_content_LoadCompleted(object sender, NavigationEventArgs e)
         {
-            mshtml.HTMLDocument htmlDoc_content = wb_content.Document as mshtml.HTMLDocument;
+            WebBrowser browser = (WebBrowser)sender;
+            mshtml.HTMLDocument htmlDoc_content = browser.Document as mshtml.HTMLDocument;
+            htmlDoc_content.focus();
             htmlDoc_content.focus();
         }
     }
