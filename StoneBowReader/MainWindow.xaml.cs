@@ -62,11 +62,14 @@ namespace StoneBowReader
     /// </summary>
     public partial class MainWindow : Window
     {
+        CnBetaInfo _selectedCnBetaInfo = null;
+
         public MainWindow()
         {
             InitializeComponent();
 
-            ShowLastestNews(20);
+            ShowNewsFromLaserRead();
+            //ShowLastestNews(1000);
         }
 
         private void ShowLastestNews(int newCount)
@@ -82,12 +85,37 @@ namespace StoneBowReader
                                              orderby newsInfo.PubTime descending
                                              select new NewsSummaryItem
                                              {
-                                                 Title = newsInfo.Title,
+                                                 Title = newsInfo.Title + " | 字数：" + newsInfo.Content.Length,
                                                  Introduce = newsInfo.Introduction,
                                                  IsViewed = joinedInfo == null || !joinedInfo.IsViewed ? false : true,
                                                  NewsInfo = newsInfo
                                              };
                 newSummaryItems = lastestUnreadNewsQuery.Take(newCount).ToList();
+            }
+
+            listbox_summary.ItemsSource = newSummaryItems;
+        }
+        private void ShowNewsFromLaserRead()
+        {
+            List<NewsSummaryItem> newSummaryItems = null;
+
+            using (ReaderInfoContext context = new ReaderInfoContext())
+            {
+                ViewInfo lastReadNewsInfo = context.ViewInfoes.Where(d => d.IsViewed == true).OrderByDescending(d => d.ViewId).First();
+
+                var lastestUnreadNewsQuery = from newsInfo in context.CnBetaInfos where String.Compare(newsInfo.Id, lastReadNewsInfo.ViewId) > 0
+                                             join viewInfo in context.ViewInfoes on newsInfo.Id equals viewInfo.ViewId into joinedInfoes
+                                             from joinedInfo in joinedInfoes.DefaultIfEmpty()
+                                             where joinedInfo == null || joinedInfo.IsViewed == false
+                                             orderby newsInfo.PubTime ascending
+                                             select new NewsSummaryItem
+                                             {
+                                                 Title = newsInfo.Title + " | 字数：" + newsInfo.Content.Length,
+                                                 Introduce = newsInfo.Introduction,
+                                                 IsViewed = joinedInfo == null || !joinedInfo.IsViewed ? false : true,
+                                                 NewsInfo = newsInfo
+                                             };
+                newSummaryItems = lastestUnreadNewsQuery.ToList();
             }
 
             listbox_summary.ItemsSource = newSummaryItems;
@@ -118,16 +146,16 @@ namespace StoneBowReader
         {
             ListBox listbox = (ListBox)sender;
             NewsSummaryItem item = (NewsSummaryItem)(listbox.SelectedItem);
-            CnBetaInfo cnBetaInfo = item.NewsInfo;
+            _selectedCnBetaInfo = item.NewsInfo;
 
-            wb_content.NavigateToString(GenerateBrowseContent(cnBetaInfo));
+            wb_content.NavigateToString(GenerateBrowseContent(_selectedCnBetaInfo));
 
             using (ReaderInfoContext context = new ReaderInfoContext())
             {
                 ViewInfo viewInfo = null;
                 try
                 {
-                    viewInfo = context.ViewInfoes.Find(cnBetaInfo.Id);
+                    viewInfo = context.ViewInfoes.Find(_selectedCnBetaInfo.Id);
                 }
                 catch (Exception ex)
                 {
@@ -136,20 +164,17 @@ namespace StoneBowReader
                 {
                     viewInfo = new ViewInfo()
                     {
-                        ViewId = cnBetaInfo.Id,
+                        ViewId = _selectedCnBetaInfo.Id,
                         FirstViewTime = DateTime.Now,
                         FinishViewTime = DateTime.Now,
-                        IsViewed = true
+                        IsViewed = false
                     };
                     context.ViewInfoes.Add(viewInfo);
                     context.SaveChanges();
                 }
             }
 
-            if (!item.IsViewed)
-            {
-                item.IsViewed = true;
-            }
+            checkbox_AlreadyRead.IsChecked = false;
         }
 
         private void wb_content_LoadCompleted(object sender, NavigationEventArgs e)
@@ -158,6 +183,56 @@ namespace StoneBowReader
             mshtml.HTMLDocument htmlDoc_content = browser.Document as mshtml.HTMLDocument;
             htmlDoc_content.focus();
             htmlDoc_content.focus();
+        }
+
+        private void ChangeAlreadyRead(bool hasAlreadyRead)
+        {
+            using (ReaderInfoContext context = new ReaderInfoContext())
+            {
+                ViewInfo viewInfo = null;
+                try
+                {
+                    viewInfo = context.ViewInfoes.Find(_selectedCnBetaInfo.Id);
+                }
+                catch (Exception ex)
+                {
+                }
+                if (viewInfo == null)
+                {
+                    viewInfo = new ViewInfo()
+                    {
+                        ViewId = _selectedCnBetaInfo.Id,
+                        FirstViewTime = DateTime.Now,
+                        FinishViewTime = DateTime.Now,
+                        IsViewed = hasAlreadyRead
+                    };
+                    context.ViewInfoes.Add(viewInfo);
+                }
+                else
+                {
+                    viewInfo.FinishViewTime = DateTime.Now;
+                    viewInfo.IsViewed = hasAlreadyRead;
+                }
+
+                context.SaveChanges();
+            }
+
+            NewsSummaryItem item = (NewsSummaryItem)(listbox_summary.SelectedItem);
+            item.IsViewed = hasAlreadyRead;
+        }
+        private void checkbox_AlreadyRead_Checked(object sender, RoutedEventArgs e)
+        {
+            ChangeAlreadyRead(true);
+        }
+
+        private void checkbox_AlreadyRead_Unchecked(object sender, RoutedEventArgs e)
+        {
+            ChangeAlreadyRead(false);
+        }
+
+        private void toolBar_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            ChangeAlreadyRead(true);
         }
     }
 }

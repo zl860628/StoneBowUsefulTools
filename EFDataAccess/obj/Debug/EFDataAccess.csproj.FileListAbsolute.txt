@@ -15,3 +15,15 @@ C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.dll
 C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.pdb
 C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.Migrations.AddViewInfoTable.resources
 C:\lezhan\code\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.csproj.GenerateResource.Cache
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.dll.config
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.dll
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\bin\Debug\EFDataAccess.pdb
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.dll
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.xml
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.csprojResolveAssemblyReference.cache
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.Migrations.AddViewInfoTable.resources
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.csproj.GenerateResource.Cache
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.dll
+C:\GitHub\StoneBowUsefulTools\EFDataAccess\obj\Debug\EFDataAccess.pdb

@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:StoneBowReader"
         mc:Ignorable="d"
-        Title="MainWindow" Height="900" Width="1598">
+        Title="MainWindow" Height="1000" Width="1598">
     <Grid>
         <Menu x:Name="menu_main" Height="25" VerticalAlignment="Top" >
             <MenuItem x:Name="menu_main_data" Header="数据" VerticalAlignment="Center" Height="25">
@@ -15,7 +15,7 @@
                 <MenuItem Header="数据"></MenuItem>
             </MenuItem>
         </Menu>
-        <ListBox x:Name="listbox_summary" HorizontalAlignment="Left" Height="829" Margin="10,30,0,0" VerticalAlignment="Top" Width="600" SelectionChanged="listbox_summary_SelectionChanged">
+        <ListBox x:Name="listbox_summary" HorizontalAlignment="Left" Height="929" Margin="10,30,0,0" VerticalAlignment="Top" Width="600" SelectionChanged="listbox_summary_SelectionChanged">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Height="80" Orientation="Horizontal">
@@ -29,6 +29,9 @@
             </ListBox.ItemTemplate>
             <!--<ListItem></ListItem>-->
         </ListBox>
-        <WebBrowser x:Name="wb_content" HorizontalAlignment="Left" Height="809" Margin="615,50,0,0" VerticalAlignment="Top" Width="965" LoadCompleted="wb_content_LoadCompleted"/>
+        <WebBrowser x:Name="wb_content" HorizontalAlignment="Left" Height="870" Margin="615,89,0,0" VerticalAlignment="Top" Width="965" LoadCompleted="wb_content_LoadCompleted"/>
+        <ToolBar x:Name="toolBar" HorizontalAlignment="Left" Margin="615,30,0,0" VerticalAlignment="Top" Height="54" Width="965" MouseDoubleClick="toolBar_MouseDoubleClick">
+            <CheckBox x:Name="checkbox_AlreadyRead" Content="已读" Checked="checkbox_AlreadyRead_Checked" Unchecked="checkbox_AlreadyRead_Unchecked" Height="34" Margin="0,10,0,5" Width="69"/>
+        </ToolBar>
     </Grid>
 </Window>
