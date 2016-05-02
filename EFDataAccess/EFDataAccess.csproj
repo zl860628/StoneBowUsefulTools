@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Entities\MyReader\ReaderInfo.cs" />
+    <Compile Include="Entities\MyReader\WebsiteReaderInfo.cs" />
     <Compile Include="Migrations\201512211259219_AddViewInfoTable.cs" />
     <Compile Include="Migrations\201512211259219_AddViewInfoTable.Designer.cs">
       <DependentUpon>201512211259219_AddViewInfoTable.cs</DependentUpon>

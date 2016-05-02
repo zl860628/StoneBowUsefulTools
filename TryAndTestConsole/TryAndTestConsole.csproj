@@ -94,6 +94,11 @@
     </Compile>
     <Compile Include="GoogleReader\GoogleReader.cs" />
     <Compile Include="GoogleReader\GoogleReaderEntity.cs" />
+    <Compile Include="LeoDataBase1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LeoDataBase1DataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="LinqToSQL\FundBasicInfo.cs">
       <DependentUpon>FundBasicInfo.dbml</DependentUpon>
     </Compile>
@@ -130,6 +135,17 @@
     </None>
     <None Include="CnBetaNewsDataSet.xss">
       <DependentUpon>CnBetaNewsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LeoDataBase1DataSet.xsc">
+      <DependentUpon>LeoDataBase1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LeoDataBase1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LeoDataBase1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LeoDataBase1DataSet.xss">
+      <DependentUpon>LeoDataBase1DataSet.xsd</DependentUpon>
     </None>
     <None Include="LinqToSQL\FundBasicInfo.dbml">
       <Generator>MSLinqToSQLGenerator</Generator>

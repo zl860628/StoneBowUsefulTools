@@ -43,5 +43,16 @@ namespace TryAndTestConsole.Properties {
                 return ((string)(this["CnBetaNewsConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=jtvll76hk0.database.windows.net,1433;Initial Catalog=LeoDataBase1;Per" +
+            "sist Security Info=True;User ID=zl860628@jtvll76hk0;Encrypt=True")]
+        public string Azure_LeoDataBase1ConnectionString {
+            get {
+                return ((string)(this["Azure_LeoDataBase1ConnectionString"]));
+            }
+        }
     }
 }
